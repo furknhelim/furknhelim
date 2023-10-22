@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**furknhelim/furknhelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Merhaba, ben Furkan Helim!
 
 Here are some ideas to get you started:
 
